@@ -74,7 +74,7 @@ fun Login(
                 .fillMaxHeight()
                 .clip(RoundedCornerShape(topStart = 30.dp, topEnd = 30.dp))
                 .padding(10.dp)
-                .background(color = Color.White)
+                //.background(color = Color.White)
                 .verticalScroll(rememberScrollState())
         ) {
 

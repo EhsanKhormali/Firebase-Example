@@ -70,7 +70,7 @@ fun Register(navController: NavController){
                 .fillMaxHeight()
                 .clip(RoundedCornerShape(topStart = 30.dp, topEnd = 30.dp))
                 .padding(10.dp)
-                .background(Color.White)
+                //.background(Color.White)
                 .verticalScroll(rememberScrollState()),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center,
